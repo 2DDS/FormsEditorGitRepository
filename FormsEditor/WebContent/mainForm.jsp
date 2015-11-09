@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-safsadf
+	<div class="navbar"></div>
 </body>
 </html>
